@@ -1,0 +1,10 @@
+/tmp/*
+/bower_components/*
+/node_modules/*
+.idea/*
+
+*.rar
+*.tar
+*.zip
+*.swo
+*.swp

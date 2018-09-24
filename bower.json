@@ -1,0 +1,22 @@
+{
+  "name": "clothes",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "RomanOt <vatokato@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies" : {
+    "normalize.css": "*",
+    "jquery": "2.*",
+    "bootstrap": "4.*"
+  }
+}
